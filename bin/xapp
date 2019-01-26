@@ -1,0 +1,12 @@
+#!/usr/bin/env ruby
+
+if ARGV[0] == 'init' then
+  require 'xapp'
+  XApp.init_template()
+elsif ARGV[0] == '-v' then
+  puts "XApp Version: 0.1.0"
+elsif ARGV[0] == nil then
+  puts "No argument provided. Try 'xapp init'."
+else
+  puts "Unrecognised argument. Try 'xapp init'."
+end
