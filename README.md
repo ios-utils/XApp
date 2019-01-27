@@ -1,5 +1,5 @@
 # XApp
-A tiny tool that helps you quickly create iOS projects with strong foundations.
+Quickly create iOS projects with strong foundations.
 
 [![Gem Version](https://badge.fury.io/rb/xapp.svg)](https://badge.fury.io/rb/xapp)
 
@@ -18,7 +18,7 @@ Uses [CocoaPods](https://cocoapods.org) for dependency management, preconfigured
 
 ## Basic Usage
 
-```
+```bash
 # Install XApp
 [sudo] gem install xapp
 
