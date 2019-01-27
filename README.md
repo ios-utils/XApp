@@ -4,7 +4,7 @@ A tiny tool to help you quickly create iOS projects with strong foundations.
 [![Gem Version](https://badge.fury.io/rb/xapp.svg)](https://badge.fury.io/rb/xapp)
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/reececomo/XApp/master/XApp.jpg" alt="XApp" width="400" style="max-width:400px;width:auto;height:auto;"/>
+<img src="https://raw.githubusercontent.com/reececomo/XApp/master/XApp.jpg" alt="XApp" width="300" style="max-width:300px;width:auto;height:auto;"/>
 </p>
 
 ## What does XApp do?
