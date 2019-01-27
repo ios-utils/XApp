@@ -1,5 +1,5 @@
 # XApp
-Quickly create iOS projects with strong foundations.
+A tiny tool to help you quickly create iOS projects with strong foundations.
 
 [![Gem Version](https://badge.fury.io/rb/xapp.svg)](https://badge.fury.io/rb/xapp)
 
