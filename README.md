@@ -3,6 +3,10 @@ A tiny tool that helps you quickly create iOS projects with strong foundations.
 
 [![Gem Version](https://badge.fury.io/rb/xapp.svg)](https://badge.fury.io/rb/xapp)
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/reececomo/XApp/master/XApp.jpg" alt="XApp" width="400" style="max-width:400px;width:auto;height:auto;"/>
+</p>
+
 ## What does XApp do?
 XApp initialises a new base iOS project with the essential tools for building a great app.
 
