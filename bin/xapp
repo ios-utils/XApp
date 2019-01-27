@@ -2,11 +2,11 @@
 require 'xapp'
 
 if ARGV[0] == 'init' then
-  XApp.init_template()
+  XApp.init_template(ARGV[1] || "MyApp")
 elsif ARGV[0] == '-v' then
   puts "XApp Version: " + XApp::VERSION
 elsif ARGV[0] == nil then
-  puts "No argument provided. Try 'xapp init'."
+  puts "No argument provided. Try 'xapp init' to create a new app."
 else
-  puts "Unrecognised argument. Try 'xapp init'."
+  puts "Unrecognised argument. Try 'xapp init' to create a new app."
 end

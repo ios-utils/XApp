@@ -1,10 +1,10 @@
 Gem::Specification.new do |s|
     s.name = 'xapp'
-    s.version = '0.1.1'
+    s.version = '0.1.3'
     s.email = 'reece@hubr.io'
     s.authors = ['Reece Como']
     s.date = %q{2019-01-26}
-    s.summary = %q{xapp is a helper tool for iOS dev}
+    s.summary = %q{xapp is a tool to help you create great iOS projects.}
 
     s.files         = `git ls-files`.split($/)
     s.executables   << 'xapp'
