@@ -12,9 +12,12 @@ XApp initialises a new base iOS project with the essential tools for building a 
 
 Uses [CocoaPods](https://cocoapods.org) for dependency management, preconfigured with:
 - [R.swift](https://github.com/mac-cain13/R.swift) for strong-typed resources
+- [Swinject](https://github.com/Swinject/Swinject) for dependency injection
 - [SwiftLint](https://github.com/realm/SwiftLint) for linting
 - [SwiftyBeaver](https://github.com/SwiftyBeaver/SwiftyBeaver) for logging
 - [XRouter](https://github.com/reececomo/XRouter) for routing
+
+As well as [Quick](https://github.com/Quick/Quick)/[Nimble](https://github.com/Quick/Nimble) for behavior-driven unit tests.
 
 ## Basic Usage
 
