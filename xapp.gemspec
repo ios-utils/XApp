@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
     s.name = 'xapp'
-    s.version = '0.1.3'
+    s.version = '0.2.0'
     s.email = 'reece@hubr.io'
     s.authors = ['Reece Como']
     s.date = %q{2019-01-26}
